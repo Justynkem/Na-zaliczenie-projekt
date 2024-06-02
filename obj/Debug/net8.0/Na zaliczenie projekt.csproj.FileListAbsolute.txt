@@ -1,0 +1,14 @@
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\bin\Debug\net8.0\Na zaliczenie projekt.exe
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\bin\Debug\net8.0\Na zaliczenie projekt.deps.json
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\bin\Debug\net8.0\Na zaliczenie projekt.runtimeconfig.json
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\bin\Debug\net8.0\Na zaliczenie projekt.dll
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\bin\Debug\net8.0\Na zaliczenie projekt.pdb
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\Na zaliczenie projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\Na zaliczenie projekt.AssemblyInfoInputs.cache
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\Na zaliczenie projekt.AssemblyInfo.cs
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\Na zaliczenie projekt.csproj.CoreCompileInputs.cache
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\Na zaliczenie projekt.dll
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\refint\Na zaliczenie projekt.dll
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\Na zaliczenie projekt.pdb
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\Na zaliczenie projekt.genruntimeconfig.cache
+C:\Users\48570\Documents\Programowanie\Na zaliczenie projekt\obj\Debug\net8.0\ref\Na zaliczenie projekt.dll
